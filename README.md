@@ -1,5 +1,5 @@
 # Haruna
-Haruna: Personalized AI desktop voice assistant
+## Haruna: Personalized AI desktop voice assistant.
 I created an AI desktop voice assistant named ”Haruna” using
 Python and its libraries and modules. It performs various task on
 voice command such as sending E-mails, opening websites like
